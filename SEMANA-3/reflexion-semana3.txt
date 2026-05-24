@@ -1,0 +1,1 @@
+Es importante porque permite guardar y organizar los cambios del proyecto, evitar perder información y facilitar el trabajo en equipo. También ayuda a corregir errores y recuperar versiones anteriores si es necesario.
